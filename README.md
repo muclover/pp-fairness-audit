@@ -1,6 +1,6 @@
 This is my experiment about privacy-preserving fairness audit of machine learning model.
 - In order to audit fairness of model
-- zero knowldege proof can provide integrity and publicly verifiable property
+- zero knowldege proof can provide integrity and publicly verifiable
 
 # Environment
 - cmake
